@@ -139,7 +139,4 @@ part of the assignment that's easy to get wrong:
   "byte n+1 belongs to somebody else" case the assignment calls out
   explicitly
 
-## Not implemented (out of scope for this assignment)
 
-- Chunked transfer encoding — every response here has a body with a
-  known length, so it was never needed.
